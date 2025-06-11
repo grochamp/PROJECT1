@@ -1,1 +1,7 @@
-//파일 정리기기
+#include <iostream>
+using namespace std;
+int main()
+{
+    cout << "ehlo" << endl;
+    return 0;
+}
